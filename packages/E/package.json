@@ -1,5 +1,5 @@
 {
-  "name": "e",
+  "name": "@jason/e",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "29afa18c2c58ecec35d6767e87ffc9b61d8a8477"
 }
