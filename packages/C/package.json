@@ -1,13 +1,13 @@
 {
   "name": "@jason/c",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jason/basic": "^1.0.1"
+    "@jason/basic": "^1.0.2"
   },
   "author": "",
   "license": "ISC",
