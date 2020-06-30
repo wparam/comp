@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jason/b": "^1.1.0",
-    "@jason/basic": "^1.1.0",
-    "@jason/c": "^1.1.0"
+    "@jason/b": "^1.0.1",
+    "@jason/basic": "^1.0.1",
+    "@jason/c": "^1.0.1"
   },
   "author": "",
   "license": "ISC",
