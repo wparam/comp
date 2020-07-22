@@ -1,17 +1,17 @@
 {
   "name": "@jason/d",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jason/b": "^1.0.5",
-    "@jason/basic": "^1.0.5",
-    "@jason/c": "^1.0.5"
+    "@jason/b": "^1.0.6",
+    "@jason/basic": "^1.0.6",
+    "@jason/c": "^1.0.6"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "29afa18c2c58ecec35d6767e87ffc9b61d8a8477"
+  "gitHead": "7208cb855fc193e41318b9b9c01a5852613e6756"
 }

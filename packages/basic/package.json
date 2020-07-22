@@ -1,6 +1,6 @@
 {
   "name": "@jason/basic",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "29afa18c2c58ecec35d6767e87ffc9b61d8a8477"
+  "gitHead": "7208cb855fc193e41318b9b9c01a5852613e6756"
 }
