@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "7208cb855fc193e41318b9b9c01a5852613e6756"
+  "gitHead": "7208cb855fc193e41318b9b9c01a5852613e6756",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
