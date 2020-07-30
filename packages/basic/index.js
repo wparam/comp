@@ -3,7 +3,7 @@ module.exports = function(){
 }
 
 module.exports.foo =  function(){
-  console.log('foo');
+  console.log('foo - basic - update');
 }
 
 module.exports.foo1 =  function(){

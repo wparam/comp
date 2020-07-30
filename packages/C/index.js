@@ -1,5 +1,6 @@
-export default function fooc(){
-  console.log('in c"s fooc');
+const { foo } = require('@jason/basic');
+ 
+module.exports.fooC =  function(){
+  console.log('fooC');
 }
-
-console.log('c')
+foo();
